@@ -13,7 +13,7 @@ Features
 - 🎨 Clean interface layout  
 - 📁 Easy to modify and expand  
 
-How it works  
+##How it works :
 You press start  
 The counter runs  
 The app displays the current Tasbeeh phrase and increments until it completes the cycle  
