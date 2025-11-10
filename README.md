@@ -14,7 +14,10 @@ Features
 - 📁 Easy to modify and expand  
 
 ## How it works :
-You press start  
-The counter runs  
-The app displays the current Tasbeeh phrase and increments until it completes the cycle  
-A notification appears when the cycle finishes
+1 → You press Start.  
+2 → The counter runs.  
+3 → The current Tasbeeh phrase appears and the number increases.  
+4 → When the count finishes, the app switches to the next phrase.  
+5 → A notification appears when the counter finishes to let you know the cycle is complete.
+
+
